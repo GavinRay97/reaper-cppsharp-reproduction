@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": "netcoreapp3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "netcoreapp3.1": {
+      "CppSharp.Parser.CLI/0.10.6": {
+        "runtime": {
+          "CppSharp.Parser.CLI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CppSharp.Parser.CLI/0.10.6": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
